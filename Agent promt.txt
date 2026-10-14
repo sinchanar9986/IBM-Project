@@ -1,0 +1,6 @@
+Project: IBM-Project-Sinchana R
+Platform: IBM Watsonx.ai and IBM Cloud
+Agent Type: AI Assistant built using Watsonx Agent Builder
+Tools Used: Watsonx.ai Studio, IBM Granite Model, IBM Cloud Object Storage
+Description: This agent is built to Smart Study Agent.
+It uses IBM Watsonx LLMs to answer queries.
